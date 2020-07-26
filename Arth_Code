@@ -1,5 +1,11 @@
 
-===============================Arithmatic Code==================================
+=============================Arithmatic Code=================================
+---------------Addition Code------------------
+int No1=70, No2=50, Add=0;
+Add = No1 + No2;
+printf("Addition of two nos is:-%d",&Add);
+
+----------------------------------- It is written by Karan from Mumbai
 
 
 
@@ -11,13 +17,10 @@
 
 
 
-
-
-
-
-
-
-================================Declaration=====================================This code is written as per Universal Standerds and Norms and will be altered or changed as per client request under Mumbai and Singapore barnch joint venture. This project haddle by developer and details as per below.
+================================Declaration=====================================
+This code is written as per Universal Standerds and Norms and will be altered or 
+changed as per client request under Mumbai and Singapore barnch joint venture. 
+This project haddle by developer and details as per below.
 
 Developed and haddle by
 Karan - Mumbai Branch
@@ -26,3 +29,4 @@ karan@hotmail.com
 Pranjal - Singapore Branch
 pranjal@live.com
 ======================================END=======================================
+
