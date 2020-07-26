@@ -12,8 +12,11 @@ Sub = Add - No3;
 printf("Substraction of two nos is:-%f",&Sub);
 ==================Substraction Code is added by Pranjal from Singapore
 
-
-
+-------------Multiplication Code--------------
+int No4=5; Mult=0;
+Mult = Sub * No4;
+printf("Multiplication of two nos is:-",&Mult);
+==================Multiplication code is added by Karan from Mumbai
 
 
 
